@@ -1,0 +1,41 @@
+.header {
+    background-color: palevioletred;
+    color: #ffffff;
+    text-align: center;
+}
+#list1 {
+display: inline-block;
+float: right;
+padding: 4px solid palevioletred;
+margin: 2px;
+}
+
+.footer-color{
+    background-color: palevioletred;
+    color: #ffffff;
+    text-align: center;
+    }
+
+#head {
+    color: palevioletred;
+    background-color: white;
+    text-align: center;
+}
+
+#img1 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+}
+
+#prg1 {
+    color: palevioletred;
+    background-color: 	rgb(255, 255, 255);
+    text-align: center;
+}
+
+.fashion-list {
+    color: palevioletred;
+    float: left;
+}
